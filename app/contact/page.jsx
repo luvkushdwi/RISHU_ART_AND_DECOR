@@ -1,6 +1,4 @@
 
-import logo from "/Users/rbmbp19/Documents/RISHUDECOR/interior-design-portfolio/public/logo.png";
-import Image from "next/image";
 export default function Contact() {
 
     const containerStyle = {
